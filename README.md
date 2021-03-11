@@ -1,2 +1,2 @@
-# dialogflow-entities
-A collection of entities for Dialogflow
+# dialogflow-name-entities
+A collection of name entities for Dialogflow
