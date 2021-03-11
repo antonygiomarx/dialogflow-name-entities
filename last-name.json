@@ -1,0 +1,59 @@
+{
+  "isRegexp": false,
+  "isEnum": true,
+  "allowFuzzyExtraction": false,
+  "name": "last-name",
+  "automatedExpansion": false,
+  "entries": [
+    {
+      "value": "@sys.last-name",
+      "synonyms": [
+        "@sys.last-name"
+      ]
+    },
+    {
+      "value": "Garc�a",
+      "synonyms": [
+        "Garc�a"
+      ]
+    },
+    {
+      "value": "Perez",
+      "synonyms": [
+        "Perez"
+      ]
+    },
+    {
+      "value": "Lopez",
+      "synonyms": [
+        "Lopez"
+      ]
+    },
+    {
+      "value": "Silva",
+      "synonyms": [
+        "Silva"
+      ]
+    },
+    {
+      "value": "Gonzalez",
+      "synonyms": [
+        "Gonzalez"
+      ]
+    },
+    {
+      "value": "Hernandez",
+      "synonyms": [
+        "Hernandez"
+      ]
+    },
+    {
+      "value": "Vallecillo",
+      "synonyms": [
+        "Vallecillo"
+      ]
+    }
+  ],
+  "id": "5d9fb04a-dfdc-46f5-804f-b578de017acb",
+  "isOverridable": false
+}
